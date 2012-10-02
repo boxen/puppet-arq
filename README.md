@@ -1,1 +1,9 @@
-# Puppet arq for Boxen\n\nFIXME: update me bro\n
+# Arq Puppet Module for Boxen
+
+Requires the `boxen` puppet module.
+
+## Usage
+
+```puppet
+include arq
+```
