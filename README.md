@@ -1,6 +1,7 @@
 # Arq Puppet Module for Boxen
 
-Requires the `boxen` puppet module.
+Install [Arq](http://www.haystacksoftware.com/arq), an incremental
+backup solution for Mac OS X.
 
 ## Usage
 
@@ -8,8 +9,11 @@ Requires the `boxen` puppet module.
 include arq
 ```
 
-## Developing
+## Required Puppet Modules
 
-Write code.
+* `boxen`
 
-Run `script/cibuild`.
+## Development
+
+Write code. Run `script/cibuild` to test it. Check the `script`
+directory for other useful tools.
