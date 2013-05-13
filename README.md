@@ -1,5 +1,7 @@
 # Arq Puppet Module for Boxen
 
+[![Build Status](https://travis-ci.org/boxen/puppet-arq.png)](https://travis-ci.org/boxen/puppet-arq)
+
 Install [Arq](http://www.haystacksoftware.com/arq), an incremental
 backup solution for Mac OS X.
 
